@@ -7,7 +7,7 @@
         241
       ],
       "tensorPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/blob/master/vecs.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/blob/master/metadata.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/metadata.tsv"
     }
   ]
 }
