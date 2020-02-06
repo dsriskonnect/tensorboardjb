@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Claim Description Projection",
+      "tensorShape": [
+        759,
+        241
+      ],
+      "tensorPath": "https://github.com/dsriskonnect/tensorboardjb/blob/master/vecs.tsv",
+      "metadataPath": "https://github.com/dsriskonnect/tensorboardjb/blob/master/metadata.tsv"
+    }
+  ]
+}
