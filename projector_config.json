@@ -3,7 +3,7 @@
     {
       "tensorShape": [
         749,
-        92160
+        1536
       ],
       "tensorName": "Claim",
       "tensorPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/jbvecs.tsv",
