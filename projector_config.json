@@ -9,17 +9,5 @@
       "tensorPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/jbvecs.tsv",
       "metadataPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/metadata.tsv"
     }
-  ],
-  [
-    {
-      "tensorShape": [
-        176452,
-        24
-      ],
-      "tensorName": "ClaimWords",
-      "tensorPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/jbvecs.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/metadata.tsv"
-    }
   ]
-  
 }
