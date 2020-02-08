@@ -7,7 +7,7 @@
       ],
       "tensorName": "Claim",
       "tensorPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/output.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/metadata.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/allwordsmetadata.tsv"
     }
   ]
 }
