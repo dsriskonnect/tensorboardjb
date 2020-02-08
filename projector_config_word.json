@@ -8,7 +8,7 @@
       "tensorName": "Claim Word",
       "tensorPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/output.tsv",
       "metadataPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/allwordsmetadata.tsv"
-    },
+    }
      {
       "tensorShape": [
         749,
