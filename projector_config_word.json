@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorShape": [
+        749,
+        1536
+      ],
+      "tensorName": "Claim",
+      "tensorPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/jbvecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/metadata.tsv"
+    }
+  ]
+}
