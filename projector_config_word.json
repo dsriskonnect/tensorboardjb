@@ -6,7 +6,7 @@
         1536
       ],
       "tensorName": "Claim",
-      "tensorPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/jbvecs.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/output.tsv",
       "metadataPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/metadata.tsv"
     }
   ]
