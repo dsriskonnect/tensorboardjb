@@ -3,7 +3,7 @@
     {
       "tensorShape": [749,1536],
       "tensorName": "Claim Word",
-      "tensorPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/output.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/output.vec",
       "metadataPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/allwordsmetadata.tsv"
     },
     {
