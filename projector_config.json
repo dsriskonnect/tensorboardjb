@@ -2,13 +2,13 @@
   "embeddings": [
     {
       "tensorShape": [749,1536],
-      "tensorName": "Claim Word",
+      "tensorName": "Matter Word",
       "tensorPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/output.vec",
       "metadataPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/allwordsmetadata.tsv"
     },
     {
       "tensorShape": [749,1536],
-      "tensorName": "Claim",
+      "tensorName": "Matter",
       "tensorPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/jbvecs.tsv",
       "metadataPath": "https://raw.githubusercontent.com/dsriskonnect/tensorboardjb/master/metadata.tsv"
     }
